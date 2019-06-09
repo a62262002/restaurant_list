@@ -24,3 +24,15 @@ $ npm run dev
 ```
 http://localhost:3000
 ```
+
+## 功能說明
++ 顯示餐廳所有清單：http://localhost:3000
++ 顯示個別餐廳詳細介紹：http://localhost:3000/id
++ 搜尋餐廳：http://localhost:3000/search?keyword=搜尋輸入內容
+
+## 專案內容
+
+
+## 作者
+[Emily Liu](https://github.com/a62262002)
+
