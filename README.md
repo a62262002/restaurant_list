@@ -31,7 +31,13 @@ http://localhost:3000
 + 搜尋餐廳：http://localhost:3000/search?keyword=搜尋輸入內容
 
 ## 專案內容
++ 顯示餐廳所有清單
 ![image](https://github.com/a62262002/restaurant_list/blob/master/restaurant_list.png)
++ 顯示個別餐廳詳細介紹
+![image](https://github.com/a62262002/restaurant_list/blob/master/restaurant_list_index.png)
++ 搜尋餐廳
+![image](https://github.com/a62262002/restaurant_list/blob/master/restaurant_list_index_research.png)
+
 
 
 ## 作者
